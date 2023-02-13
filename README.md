@@ -1,6 +1,7 @@
-# potatochips
+# Potato Chips Sales Analytics
 
 **Keywords: Marketing Analytics, Customer Segmentation, Statistical Testing**
+
 **Tools:Python(Pandas, Matplotlib, Scipy)**
 
 This project is my response to Quantium Data Analytics Virtual Experience Program provided by Forage.
