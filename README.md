@@ -6,7 +6,12 @@
 
 *This project is my response to Quantium Data Analytics Virtual Experience Program provided by Forage.*
 
-The project can be divided into the following steps:
+Dataset:
+1. Transaction Data (265k rows)
+2. Customer Demographics (2.4m rows)
+
+
+Jupyter Notebook:
 1. Data Preparation and Customer Analytics
 2. Experimentation and Uplift Testing
 
